@@ -1,4 +1,7 @@
 # MOBIILE-PROGRAMMING1-P1-
+MOBILE PROGRAMMING1
+Nama   : Ahmad Rizky Ramadhan 
+Kelas  : 19.4A.05
 Tugas Pertemuan1
 Buat akun di medium, github, Instalasi Java, git, Android studio, Flutter 
 1. Install environment dan tool untuk menjalankan flutter 
